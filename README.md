@@ -8,7 +8,7 @@ This is a popular challenge for coding and can be taken by beginners, intermidia
 
 ---
 
-For those who wants to join and read the rules. You can go ahead and read from the official site: (100DaysofCode)[https://www.100daysofcode.com/]
+For those who wants to join and read the rules. You can go ahead and read from the official site: [100DaysofCode](https://www.100daysofcode.com/)
 
 # Why I created this Repo
 
@@ -23,4 +23,4 @@ I will also put some notes in this repo and resources for where I am learning ce
 Thanks
 You can join me in this challenge or connect with me via
 
-*(Twitter)[https://twitter.com/coding_theself], (LinkedIn)[https://www.linkedin.com/in/alex-miller-b66984269/], (GitHub)[https://github.com/AlexMiller101]*
+*[Twitter](https://twitter.com/coding_theself), [LinkedIn](https://www.linkedin.com/in/alex-miller-b66984269/), [GitHub](https://github.com/AlexMiller101)*
