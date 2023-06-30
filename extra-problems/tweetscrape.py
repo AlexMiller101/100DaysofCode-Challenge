@@ -93,6 +93,8 @@ def extract_thread(url):
 
 url = sys.argv[2]
 
+url = url.replace("twitter.com", "nitter.net")
+
 if sys.argv[1] == "a":
     extract_tweet(url)    
 
